@@ -24,7 +24,7 @@ Add to bower.json:
 ```
 
 ## Contributing
-This is not a complete list of social website icons, create a pull request if you have an icon you'd like to add
+This is not a complete list of social website icons, create a pull request if you have an icon you'd like to add.
 
 ## Maintained by
 - Vander Rice (Full-Stack Web Software Engineer)
