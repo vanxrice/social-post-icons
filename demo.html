@@ -5,26 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>social-post-icons Demo</title>
     <script src="../webcomponentsjs/webcomponents.js"></script>
-    <link rel="import" href="../core-icon/core-icon.html">
+    <link rel="import" href="../iron-icon/iron-icon.html">
     <link rel="import" href="../paper-fab/paper-fab.html">
-    
-    <link rel="import" href="social-post-icons.html">
-  </head>
-  <body unresolved>
-    <div layout horizontal style="margin-bottom: 50px;">
-        <core-icon icon="social-post:blogger"></core-icon>
-        <core-icon icon="social-post:facebook"></core-icon>
-        <core-icon icon="social-post:github"></core-icon>
-        <core-icon icon="social-post:gplus"></core-icon>
-        <core-icon icon="social-post:instagram"></core-icon>
-        <core-icon icon="social-post:linkedin"></core-icon>
-        <core-icon icon="social-post:pinterest"></core-icon>
-        <core-icon icon="social-post:tumblr"></core-icon>
-        <core-icon icon="social-post:twitter"></core-icon>
-        <core-icon icon="social-post:youtube"></core-icon>
-    </div>
+    <link rel="import" href="../iron-flex-layout/classes/iron-flex-layout.html">
 
-    <div layout horizontal>
+    <link rel="import" href="social-post-icons.html">
+    <style is="custom-style">
+        :root { --paper-fab-background: red; }
+    </style>
+  </head>
+  <body>
+    <div class="layout horizontal" style="margin-bottom: 50px;">
+        <iron-icon icon="social-post:blogger"></iron-icon>
+        <iron-icon icon="social-post:facebook"></iron-icon>
+        <iron-icon icon="social-post:github"></iron-icon>
+        <iron-icon icon="social-post:gplus"></iron-icon>
+        <iron-icon icon="social-post:instagram"></iron-icon>
+        <iron-icon icon="social-post:linkedin"></iron-icon>
+        <iron-icon icon="social-post:pinterest"></iron-icon>
+        <iron-icon icon="social-post:tumblr"></iron-icon>
+        <iron-icon icon="social-post:twitter"></iron-icon>
+        <iron-icon icon="social-post:youtube"></iron-icon>
+    </div>
+    <div class="layout horizontal">
         <paper-fab icon="social-post:blogger"></paper-fab>
         <paper-fab icon="social-post:facebook"></paper-fab>
         <paper-fab icon="social-post:github"></paper-fab>
