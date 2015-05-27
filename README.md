@@ -6,7 +6,7 @@ See the [component page](http://vanxrice.github.io/social-post-icons/components/
 ## Live demo
 See the [demo page](http://vanxrice.github.io/social-post-icons/components/social-post-icons/demo.html).
 
-> Provides social-post icons for websites as a Polymer core-iconset. This is not a custom element. This iconset is to be used with a core-icon or any element that utilizes core-icon (core-icon-button, paper-fab, etc.)
+> Provides social-post icons for websites as a Polymer iron-iconset. This is not a custom element. This iconset is to be used with a iron-icon or any element that utilizes iron-icon (paper-fab, etc.).
 
 ## How To Use
 Add to bower.json:
@@ -20,7 +20,7 @@ Add to bower.json:
 ```html
 <link rel="import" href="../bower_components/social-post-icons/social-post-icons.html">
     
-<core-icon icon="social-post:blogger"></core-icon>
+<iron-icon icon="social-post:blogger"></iron-icon>
 ```
 
 ## Contributing
