@@ -1,7 +1,9 @@
 social-post-icons
 ============
 
-See the [component page](http://vanxrice.github.io/social-post-icons/components/social-post-icons) for more information.
+<!-- the https://github.com/Polymer/tools/blob/master/bin/gp.sh script is generating a index page without documentation
+     TODO fixme -->
+<!-- See the [component page](http://vanxrice.github.io/social-post-icons/components/social-post-icons) for more information. -->
 
 ## Live demo
 See the [demo page](http://vanxrice.github.io/social-post-icons/components/social-post-icons/demo.html).
