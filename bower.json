@@ -12,9 +12,11 @@
     "social"
   ],
   "dependencies": {
-    "core-icon": "Polymer/core-icon",
-    "core-iconset-svg": "Polymer/core-iconset-svg",
-    "polymer": "Polymer/polymer"
+    "iron-icon": "PolymerElements/iron-icon",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg",
+    "polymer": "Polymer/polymer",
+    "paper-fab": "PolymerElements/paper-fab#^1.0",
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0"
   },
   "ignore": [
     "**/.*",
