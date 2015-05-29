@@ -15,8 +15,8 @@
     "iron-icon": "PolymerElements/iron-icon",
     "iron-iconset-svg": "PolymerElements/iron-iconset-svg",
     "polymer": "Polymer/polymer",
-    "paper-fab": "PolymerElements/paper-fab#~0.9.2",
-    "iron-component-page": "PolymerElements/iron-component-page#~0.9.4"
+    "paper-fab": "PolymerElements/paper-fab#^0.9",
+    "iron-component-page": "PolymerElements/iron-component-page#^0.9"
   },
   "ignore": [
     "**/.*",
