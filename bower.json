@@ -1,7 +1,7 @@
 {
   "name": "social-post-icons",
   "version": "0.1.0",
-  "description": "A Polymer iconset that provides social-post icons for use with core-icon",
+  "description": "A Polymer iconset that provides social-post icons for use with iron-icon",
   "main": "social-post-icons.html",
   "keywords": [
     "web-components",
@@ -12,11 +12,11 @@
     "social"
   ],
   "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page",
     "iron-icon": "PolymerElements/iron-icon",
     "iron-iconset-svg": "PolymerElements/iron-iconset-svg",
-    "polymer": "Polymer/polymer",
-    "paper-fab": "PolymerElements/paper-fab#^1.0",
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0"
+    "paper-fab": "PolymerElements/paper-fab#^1.0"
   },
   "ignore": [
     "**/.*",
