@@ -15,7 +15,7 @@ Add to bower.json:
 ```json
 {
   "dependencies": {
-    "social-post-icons": "~0.1.0"
+    "social-post-icons": "~0.2.0"
   }
 }
 ```
