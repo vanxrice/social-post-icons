@@ -1,26 +1,28 @@
 social-post-icons
 ============
 
-See the [component page](http://vanxrice.github.io/social-post-icons/components/social-post-icons) for more information.
+<!-- the https://github.com/Polymer/tools/blob/master/bin/gp.sh script is generating a index page without documentation
+     TODO fixme -->
+<!-- See the [component page](http://vanxrice.github.io/social-post-icons/components/social-post-icons) for more information. -->
 
 ## Live demo
 See the [demo page](http://vanxrice.github.io/social-post-icons/components/social-post-icons/demo.html).
 
-> Provides social-post icons for websites as a Polymer core-iconset. This is not a custom element. This iconset is to be used with a core-icon or any element that utilizes core-icon (core-icon-button, paper-fab, etc.)
+> Provides social-post icons for websites as a Polymer iron-iconset. This is not a custom element. This iconset is to be used with a iron-icon or any element that utilizes iron-icon (paper-fab, etc.).
 
 ## How To Use
 Add to bower.json:
 ```json
 {
   "dependencies": {
-    "social-post-icons": "~0.1.0"
+    "social-post-icons": "~0.2.0"
   }
 }
 ```
 ```html
 <link rel="import" href="../bower_components/social-post-icons/social-post-icons.html">
     
-<core-icon icon="social-post:blogger"></core-icon>
+<iron-icon icon="social-post:blogger"></iron-icon>
 ```
 
 ## Contributing
