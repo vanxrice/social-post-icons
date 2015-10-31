@@ -1,0 +1,38 @@
+{
+  "name": "social-post-icons",
+  "description": "A Polymer iconset that provides social-post icons for use with iron-icon",
+  "main": "social-post-icons.html",
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "social-post-icons",
+    "iconset",
+    "social"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-component-page": "PolymerElements/iron-component-page",
+    "iron-icon": "PolymerElements/iron-icon",
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg",
+    "paper-fab": "PolymerElements/paper-fab"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/vanxrice/social-post-icons",
+  "_release": "878444456f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "878444456f275d31f2a7ad26a9f7d1841714b886"
+  },
+  "_source": "git://github.com/vanxrice/social-post-icons.git",
+  "_target": "master",
+  "_originalSource": "vanxrice/social-post-icons",
+  "_direct": true
+}

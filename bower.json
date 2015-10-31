@@ -1,0 +1,7 @@
+{
+  "name": "social-post-icons#gh-pages",
+  "private": true,
+  "dependencies": {
+    "social-post-icons": "vanxrice/social-post-icons#master"
+  }
+}
